@@ -3,10 +3,10 @@ Arduino code for dLive MIDI Controller
 
 Current code for use with Arduino Mega and mocoLUFA. 
 Encoder is quadrature encoder. 
-Select is press on encoder
+Select is press on encoder.
 Mode switch is SPST ON-OFF.
-Faders are Bourns B10K 100mm
-Buttons are illuminated DPST
+Faders are Bourns B10K 100mm.
+Buttons are illuminated DPST.
 
 There is a SETUP and RUN mode. It always boot into RUN mode, regardless of mode switch position. When in RUN mode, all faders and mutes work as they should.
 The encoder will cycle the display through each channel strip and tell you what it is assigned to. When mode switch is flipped, it changes to SETUP mode.
