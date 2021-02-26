@@ -1,4 +1,4 @@
-# dLive_MIDI_Cntroller
+# dLive_MIDI_Controller
 Arduino code for dLive MIDI Controller
 
 Current code for use with Arduino Mega and mocoLUFA. 
